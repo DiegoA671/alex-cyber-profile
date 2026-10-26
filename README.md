@@ -1,16 +1,13 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, I'm Alex Diego
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+_Cybersecurity student at UTSA and active-duty Air Force member developing skills in networking, Linux, scripting, and cybersecurity. I am interested in pursuing Offensive Cyber._
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+CompTIA Security+
+CompTIA Network+
 ## 🎉 Interests
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
-## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
+Offensive Cyber
+Cyber Defense
 
-_"Your sample quote here!"_
+_"The goal is not to know everything, but to keep getting better."_
