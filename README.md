@@ -4,10 +4,9 @@ _Cybersecurity student at UTSA and active-duty Air Force member developing skill
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-CompTIA Security+
-CompTIA Network+
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia&logoColor=white)
+![Network+](https://img.shields.io/badge/CompTIA-Network%2B-red?logo=comptia&logoColor=white)
 ## 🎉 Interests
-Offensive Cyber
-Cyber Defense
+Offensive Cyber | Cyber Defense
 
 _"The goal is not to know everything, but to keep getting better."_
